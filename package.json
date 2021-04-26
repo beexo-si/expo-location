@@ -1,0 +1,8 @@
+{
+  "name": "expo-location",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/beexo-si/expo-location.git",
+  "author": "Santiago Iwakawa <santiago@beexo.com>",
+  "license": "MIT"
+}
